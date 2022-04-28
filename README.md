@@ -1,8 +1,8 @@
 ### Hi there 👋
 
   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gjdms611&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gjdms611)](https://solved.ac/gjdms611)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=scalefreeus&theme=onedark)](https://github.com/scalefreeus/github-readme-stats)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=scalefreeus)](https://solved.ac/scalefreeus)
 
 <!--
 **scalefreeus/scalefreeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
